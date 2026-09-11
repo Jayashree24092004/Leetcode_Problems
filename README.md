@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jayashree24092004/Leetcode_Problems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jayashree24092004/Leetcode_Problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jayashree24092004/Leetcode_Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/Jayashree24092004/Leetcode_Problems/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,4 +60,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jayashree24092004/Leetcode_Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3903-smallest-stable-index-i](https://github.com/Jayashree24092004/Leetcode_Problems/tree/main/3903-smallest-stable-index-i/) | Easy |
 <!---LeetCode Topics End-->
