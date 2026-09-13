@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/Jayashree24092004/Leetcode_Problems/tree/main/0835-image-overlap/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jayashree24092004/Leetcode_Problems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jayashree24092004/Leetcode_Problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Jayashree24092004/Leetcode_Problems/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -77,4 +78,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Jayashree24092004/Leetcode_Problems/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0835-image-overlap](https://github.com/Jayashree24092004/Leetcode_Problems/tree/main/0835-image-overlap/) | Medium |
 <!---LeetCode Topics End-->
