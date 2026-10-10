@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Jayashree24092004/Leetcode_Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jayashree24092004/Leetcode_Problems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jayashree24092004/Leetcode_Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1768-merge-strings-alternately](https://github.com/Jayashree24092004/Leetcode_Problems/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Jayashree24092004/Leetcode_Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jayashree24092004/Leetcode_Problems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Jayashree24092004/Leetcode_Problems/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jayashree24092004/Leetcode_Problems/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Jayashree24092004/Leetcode_Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jayashree24092004/Leetcode_Problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jayashree24092004/Leetcode_Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jayashree24092004/Leetcode_Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
